@@ -1,0 +1,4 @@
+;/*FB_PKG_DELIM*/
+
+__d("CometUFICommentSeeDeclinedCommentFeedbackDialogQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="7447925031917671"}),null);
+__d("useHoverState.new",["useBoolean","useEventHandler"],(function(a,b,c,d,e,f,g){"use strict";function a(a,b){var d=c("useBoolean")(!1),e=d.value,f=d.set,g=d.setTrue,h=d.setFalse;d=c("useEventHandler")(function(b){g(),a==null?void 0:a(b)});var i=c("useEventHandler")(function(a){h(),b==null?void 0:b(a)});return{isHovered:e,onMouseEnter:d,onMouseLeave:i,setIsHovered:f}}g["default"]=a}),98);
